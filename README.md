@@ -1,5 +1,5 @@
 # Proje
-Kodu android studioda çalıştırmak için fazladan dosyalar gerekebilir.  Bu durumda banaa mesaj yazarsınız.  
+Kodu android studioda çalıştırmak için fazladan dosyalar gerekebilir.  Bu durumda bana mesaj atarsınız.  
   
   
 21.11.2025  
