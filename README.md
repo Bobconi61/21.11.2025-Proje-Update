@@ -1,6 +1,6 @@
 # Proje
-
-21.11.2025  
+Kodu android studioda çalıştırmak için fazladan dosyalar gerekebilir.  Bu durumda banaa mesaj yazarsınız.  
+  21.11.2025  
 kodlar optimize edilde.  
 zaman aralıkları optimize edildi.  
 ayarlar ve randevularım sayfası eklendi.  
